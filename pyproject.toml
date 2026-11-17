@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "voc-olist-rag"
+version = "1.0.0"
+description = "Voice of Customer Intelligence baseado em RAG sobre avaliações da Olist"
+requires-python = ">=3.10"
+
+[tool.setuptools.packages.find]
+where = ["src"]

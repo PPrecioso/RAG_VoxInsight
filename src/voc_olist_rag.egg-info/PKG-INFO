@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: voc-olist-rag
+Version: 1.0.0
+Summary: Voice of Customer Intelligence baseado em RAG sobre avaliações da Olist
+Requires-Python: >=3.10
